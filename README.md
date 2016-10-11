@@ -6,7 +6,9 @@ ShodanPy is simple command line framework wrapper around the Shodan API. It incl
 ###Prerequisites
 
 API_key: By creating an account on www.shodan.io
+
 Json python library: pip install json
+
 Urllib2: pip install urllib2
 
 ###Executing the Tool
