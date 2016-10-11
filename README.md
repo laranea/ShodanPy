@@ -17,7 +17,7 @@ Download the repository and execute main.py:
 
 python main.py
 
-##Features
+##Screenshots
 
 
 ##Authors
