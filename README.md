@@ -39,7 +39,7 @@ The Exploits Module
 
 
 
-##Authors
+##Developer
 
 Vasisht Duddu(vduddu)
 
