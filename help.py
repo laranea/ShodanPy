@@ -1,14 +1,12 @@
 import shodan
 from authenticate import shodan_py
 import os
+from banner import banner
 
 def help():
-	print("""\n		
-				#########################
-				#####	SHODAN-PY   #####
-				#########################
 
-
+	banner()
+	print("""
 
 		Author:vduddu
 		Mail:vduddu@protonmail.com

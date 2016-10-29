@@ -1,8 +1,5 @@
 #! usr/bin/python
 
-##Author: vduddu
-
-
 import shodan
 import os
 import json
