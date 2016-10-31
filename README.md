@@ -25,7 +25,7 @@ PyFiglet
 
 Download the repository and execute main.py:
 
-python main.py
+    python main.py
 
 ##Screenshots
 
