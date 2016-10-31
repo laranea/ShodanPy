@@ -11,6 +11,8 @@ Json python library: pip install json
 
 Urllib2: pip install urllib2
 
+PyFiglet: pip install pyfiglet
+
 ###Executing the Tool
 
 Download the repository and execute main.py:
