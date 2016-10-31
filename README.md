@@ -5,13 +5,21 @@ ShodanPy is a simple command line framework wrapper around the Shodan API. It in
 
 ###Prerequisites
 
-API_key: By creating an account on www.shodan.io
+API_key
 
-Json python library: pip install json
+    By creating an account on www.shodan.io
 
-Urllib2: pip install urllib2
+Json python library
+      
+      pip install json
 
-PyFiglet: pip install pyfiglet
+Urllib2
+  
+    pip install urllib2
+
+PyFiglet
+  
+    pip install pyfiglet
 
 ###Executing the Tool
 
