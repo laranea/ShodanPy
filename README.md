@@ -31,7 +31,8 @@ Download the repository and execute main.py:
 
 ###The Main and Help Module
 
-![screen shot 2016-10-12 at 2 18 21 am](https://cloud.githubusercontent.com/assets/20644368/19288965/1e357962-9026-11e6-9924-0470bf7140a4.png)
+![screen shot 2016-11-02 at 11 28 23 am](https://cloud.githubusercontent.com/assets/20644368/19918230/8cdd3fb0-a0ef-11e6-88c3-5c5571408938.png)
+
 
 ###Search Module
 
