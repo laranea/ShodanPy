@@ -38,10 +38,14 @@ This is the first screen that pop ups when you start the application. It gives a
 
 ###Search Module
 
+This can take any parameter(server type, product ID, service name, port, ........) and gives information about all possible systems connected to the internet with relation to the search field.
+
 ![screen shot 2016-10-12 at 2 16 57 am](https://cloud.githubusercontent.com/assets/20644368/19289083/a4356662-9026-11e6-8995-406ecdf5b3c8.png)
 
 
 ###Host Module
+
+This takes an IP address as input and prints all relevant data corresponding to that particular IP address.
 
 ![screen shot 2016-10-12 at 2 15 36 am](https://cloud.githubusercontent.com/assets/20644368/19289047/77a2e1f6-9026-11e6-90f8-47c49467a672.png)
 
