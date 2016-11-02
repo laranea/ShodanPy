@@ -31,6 +31,8 @@ Download the repository and execute main.py:
 
 ###The Main and Help Module
 
+This is the first screen that pop ups when you start the application. It gives all possible commands that can be used to perform various activities. This screen can also be called by using the help command.
+
 ![screen shot 2016-11-02 at 11 28 23 am](https://cloud.githubusercontent.com/assets/20644368/19918230/8cdd3fb0-a0ef-11e6-88c3-5c5571408938.png)
 
 
