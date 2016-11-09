@@ -6,9 +6,7 @@ pycrypto==2.6.1
 pyfiglet==0.7.5
 pygal==2.3.0
 pymongo==3.3.0
-pyobjc-core==2.5.1
 pyparsing==2.0.1
-pytz==2013.7
 requests==2.5.1
 requests-oauthlib==0.7.0
 shodan==1.5.6
