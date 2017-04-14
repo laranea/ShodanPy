@@ -1,4 +1,4 @@
-# ShodanPy      [![Build Status](https://travis-ci.org/vduddu/ShodanPy.svg?branch=master)](https://travis-ci.org/vduddu/ShodanPy) [![NSP Status](https://nodesecurity.io/orgs/vduddu/projects/a1379c25-b260-49b7-9d6f-929b54300b5a/badge)](https://nodesecurity.io/orgs/vduddu/projects/a1379c25-b260-49b7-9d6f-929b54300b5a)
+# ShodanPy 
 ShodanPy is a simple command line framework wrapper around the Shodan API. It includes most of the core features offered by the shodan engine like getting information about a host, statistical data, searching for services, ports, servers, products and giving detailed information about them. It also includes a module for giving information about all possible vulnerabilities and exploits available for a service.
 
 ##Getting Started
